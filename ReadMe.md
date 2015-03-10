@@ -16,10 +16,10 @@ Bosh sahifa bitta paneldan iborat bo'lib bu panelda "Kirish" va
 <dl><dt>"Ro'yxatdan o'tish"</dt> <dd>bo'limida  foydalanuvchi Ismi,Familiyasi,
   Logini,Paroli,T-yili,T-kuni,T-oyi,Jinsi va
    Fotografiyasini kiritadi;</dd></dl>
-####Siz saytga o'z profilingiz orqali kirganingizdan keyin (*ekran 3 ta bo'lakga bo'linadi).###
-__chap tomonda__      siznig
+####Siz saytga o'z profilingiz orqali kirganingizdan keyin (ekran 3 ta bo'lakga bo'linadi).###
+ <dl>   <dt>chap tomonda</dt>   <dd>     siznig
 profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
- surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.
+ surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.</dd></dl>
 *Bular shaxsiy profilni boshqarish,
 -Fotoalbom,Ko’pchilikka xabar yuborish shulardir.
 __O'rta qismida__ ko’pchilikka xabar yuborish bo'limida yozgan bloglaringiz, joylashtirilgan
@@ -30,7 +30,7 @@ Saytning pastgi qismida _[Twitter](https://www.Twitter.com)_,_[Odnoklassniki]
 (https://www.Odnoklassniki.ru)_,_[Facebook](https://www.Facebook.com)_,
 _[Telegram](https://telegram.com)_ saytlari iconlari,
 qalendar,joriy soatlardan tashkil topgan panel joy oladi.
-<dl>   <dt></dt>   <dd></dd></dl>
+<dl>   <dt>chap tomonda</dt>   <dd></dd></dl>
 
 
 
