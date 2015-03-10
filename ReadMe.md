@@ -12,7 +12,7 @@ ekranigizda saytning bosh sahifasi ochiladi.
 Bosh sahifa ko'rinishi quyidagicha:
 Bosh sahifa bitta paneldan iborat bo'lib bu panelda "Kirish" va
  "Ro'yxatdan o'tish" bo'limlari paydo bo'ladi.
-__"Kirish"__ bo'limida login va parol tergan holda saytga kirishingiz mumkin;
+<dl><dt>__"Kirish"__</dt> <dd>bo'limida login va parol tergan holda saytga kirishingiz mumkin;</dd></dl>
 __"Ro'yxatdan o'tish"__ bo'limida  foydalanuvchi _Ismi_,_Familiyasi_,
   _Logini_,_Paroli_,_T-yili_,_T-kuni_,_T-oyi_,_Jinsi_ va
    _Fotografiyasini_ kiritadi;
