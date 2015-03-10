@@ -27,8 +27,10 @@ Bosh sahifa bitta paneldan iborat bo'lib bu panelda __"Kirish"__ va
  <dl>   <dt>Chap tomonda</dt>   <dd>     siznig
 profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
  surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.Bular:</dd></dl>
-<dt>Shaxsiy profilni boshqarish,</dt>
-<dt>Fotoalbom,Ko’pchilikka xabar yuborish shulardir.</dt>
+
++ Shaxsiy profilni boshqarish,
++ Fotoalbom,Ko’pchilikka xabar yuborish shulardir.
+
 <dl><dt>O'rta qismida</dt> <dd>ko’pchilikka xabar yuborish bo'limida yozgan bloglaringiz, joylashtirilgan
 fotosuratlaringiz va ularga yozilgan commentlar chiqib turadi.</dd></dl>
 <dl><dt>O'ng tomonda</dt><dd> bir qancha yangiliklar ketma-ketligi joylashgan va bir qancha saytlarga
@@ -37,8 +39,7 @@ Saytning pastgi qismida _[Twitter](https://www.Twitter.com)_,_[Odnoklassniki]
 (https://www.Odnoklassniki.ru)_,_[Facebook](https://www.Facebook.com)_,
 _[Telegram](https://telegram.com)_ saytlari iconlari,
 qalendar,joriy soatlardan tashkil topgan panel joy oladi.
-+ eldor
-+ eldor
+
 
 
 
