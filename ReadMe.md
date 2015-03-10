@@ -7,11 +7,11 @@ o'rnatishingiz mumkin.</dt></dl>
 <dt>Faylli ma'lumotlarni almashish,</dt>
 <dt>Shaxsiy profilni boshqarish,</dt>
 <dt>Ko’pchilikka xabar yuborish yani lenta.</dt>
-Siz [MyChat.uz](https://mychatcom.herokuapp.com/) silkasiga murojat qilganingizda
+---Siz [MyChat.uz](https://mychatcom.herokuapp.com/) silkasiga murojat qilganingizda
 ekranigizda saytning bosh sahifasi ochiladi.
 Bosh sahifa ko'rinishi quyidagicha:
-Bosh sahifa bitta paneldan iborat bo'lib bu panelda "Kirish" va
- "Ro'yxatdan o'tish" bo'limlari paydo bo'ladi.
+Bosh sahifa bitta paneldan iborat bo'lib bu panelda __"Kirish"__ va
+ __"Ro'yxatdan o'tish"__ bo'limlari paydo bo'ladi.
 <dl><dt>"Kirish"</dt> <dd>bo'limida login va parol tergan holda saytga kirishingiz mumkin;</dd></dl>
 <dl><dt>"Ro'yxatdan o'tish"</dt> <dd>bo'limida  foydalanuvchi Ismi,Familiyasi,
   Logini,Paroli,T-yili,T-kuni,T-oyi,Jinsi va
