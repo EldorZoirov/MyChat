@@ -17,10 +17,10 @@ Bosh sahifa bitta paneldan iborat bo'lib bu panelda "Kirish" va
   Logini,Paroli,T-yili,T-kuni,T-oyi,Jinsi va
    Fotografiyasini kiritadi;</dd></dl>
 ####Siz saytga o'z profilingiz orqali kirganingizdan keyin (ekran 3 ta bo'lakga bo'linadi).###
- <dl>   <dt>chap tomonda</dt>   <dd>     siznig
+ <dl>   <dt>Chap tomonda</dt>   <dd>     siznig
 profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
  surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.</dd></dl>
-*Bular shaxsiy profilni boshqarish,
+<dt>Bular shaxsiy profilni boshqarish,</dt>
 -Fotoalbom,Ko’pchilikka xabar yuborish shulardir.
 __O'rta qismida__ ko’pchilikka xabar yuborish bo'limida yozgan bloglaringiz, joylashtirilgan
 fotosuratlaringiz va ularga yozilgan commentlar chiqib turadi.
