@@ -1,7 +1,9 @@
 #Sayt nomi MyChat.uz#
 ###Bu sayt orqali quyidagi imkoniyatlarga ega bo'lishingiz mumkin:
-<dl><dt>Bu sayt orqali siz yaqin do'stlaringiz bilan online muloqot
-o'rnatishingiz mumkin.</dt></dl>
+<blockquote>
+  <p>Bu sayt orqali siz yaqin do'stlaringiz bilan online muloqot
+     o'rnatishingiz mumkin.</p>
+</blockquote>
 <dt>Matnli xabarlarni almashish,</dt>
 <dt>Fotografiya almashish,</dt>
 <dt>Faylli ma'lumotlarni almashish,</dt>
