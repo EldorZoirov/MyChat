@@ -21,11 +21,11 @@ Bosh sahifa bitta paneldan iborat bo'lib bu panelda "Kirish" va
 profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
  surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.Bular:</dd></dl>
 <dt>Shaxsiy profilni boshqarish,</dt>
-<dt>Fotoalbom,Ko’pchilikka xabar yuborish</dt>   shulardir.
-__O'rta qismida__ ko’pchilikka xabar yuborish bo'limida yozgan bloglaringiz, joylashtirilgan
-fotosuratlaringiz va ularga yozilgan commentlar chiqib turadi.
-__O'ng tomonda__ bir qancha yangiliklar ketma-ketligi joylashgan va bir qancha saytlarga
- o'tish imkoniyati qo'yilgan bo'ladi yani silkalar(reklama ko'rinishida).
+<dt>Fotoalbom,Ko’pchilikka xabar yuborish shulardir.</dt>
+<dl><dt>O'rta qismida</dt> <dd>ko’pchilikka xabar yuborish bo'limida yozgan bloglaringiz, joylashtirilgan
+fotosuratlaringiz va ularga yozilgan commentlar chiqib turadi.</dd></dl>
+<dl><dt>O'ng tomonda</dt><dd> bir qancha yangiliklar ketma-ketligi joylashgan va bir qancha saytlarga
+ o'tish imkoniyati qo'yilgan bo'ladi yani silkalar(reklama ko'rinishida).</dd></dl>
 Saytning pastgi qismida _[Twitter](https://www.Twitter.com)_,_[Odnoklassniki]
 (https://www.Odnoklassniki.ru)_,_[Facebook](https://www.Facebook.com)_,
 _[Telegram](https://telegram.com)_ saytlari iconlari,
