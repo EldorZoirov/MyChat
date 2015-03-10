@@ -2,11 +2,9 @@
 ###Bu sayt orqali quyidagi imkoniyatlarga ega
 bo'lishingiz mumkin:
 Bu sayt orqali siz yaqin do'stlaringiz bilan online muloqot
-
- o'rnatishingiz mumkin.
+o'rnatishingiz mumkin.
 
 Matnli xabarlarni almashish,
-
 Fotografiya almashish,
 Faylli ma'lumotlarni almashish,
 Shaxsiy profilni boshqarish,
