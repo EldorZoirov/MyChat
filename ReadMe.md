@@ -1,5 +1,5 @@
 #Sayt nomi MyChat.uz#
-[![NPM version](http://s3.daryo.uz/wp-content/uploads/2014/01/soccer1.jpg)](http://s3.daryo.uz/wp-content/uploads/2014/01/soccer1)
+[![NPM version]](http://s3.daryo.uz/wp-content/uploads/2014/01/soccer1)
  [![Build Status](https://travis-ci.org/assemble/assemble.png)](https://travis-ci.org/assemble/assemble)
 ###Bu sayt orqali quyidagi imkoniyatlarga ega bo'lishingiz mumkin:
 <blockquote>
