@@ -1,15 +1,14 @@
 #Sayt nomi MyChat.uz#
-
 ###Bu sayt orqali quyidagi imkoniyatlarga ega bo'lishingiz mumkin:
 <blockquote>
   <p>Bu sayt orqali siz yaqin do'stlaringiz bilan online muloqot
      o'rnatishingiz mumkin.</p>
 </blockquote>
-+Matnli xabarlarni almashish,
-+Fotografiya almashish,
-+Faylli ma'lumotlarni almashish,
-+Shaxsiy profilni boshqarish,
-+Ko’pchilikka xabar yuborish yani lenta.
+`Matnli xabarlarni almashish,
+Fotografiya almashish,
+Faylli ma'lumotlarni almashish,
+Shaxsiy profilni boshqarish,
+Ko’pchilikka xabar yuborish yani lenta.`
 Siz [MyChat.uz](https://mychatcom.herokuapp.com/) silkasiga murojat qilganingizda
 ekranigizda saytning bosh sahifasi ochiladi.
 Bosh sahifa ko'rinishi quyidagicha:
@@ -36,6 +35,7 @@ Saytning pastgi qismida _[Twitter](https://www.Twitter.com)_,_[Odnoklassniki]
 (https://www.Odnoklassniki.ru)_,_[Facebook](https://www.Facebook.com)_,
 _[Telegram](https://telegram.com)_ saytlari iconlari,
 qalendar,joriy soatlardan tashkil topgan panel joy oladi.
++ [github/jonschlinkert](https://github.com/jonschlinkert)
 
 
 
