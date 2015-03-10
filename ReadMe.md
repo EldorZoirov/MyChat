@@ -26,7 +26,7 @@ Bosh sahifa bitta paneldan iborat bo'lib bu panelda __"Kirish"__ va
  Chap tomonda
  ```
 
-siznig profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
+Siznig profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
 surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.Bular:
 <dt>Shaxsiy profilni boshqarish,</dt>
 <dt>Fotoalbom,Ko’pchilikka xabar yuborish shulardir.</dt>
