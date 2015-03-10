@@ -16,8 +16,10 @@ __"Kirish"__ bo'limida login va parol tergan holda saytga kirishingiz mumkin;
 __"Ro'yxatdan o'tish"__ bo'limida  foydalanuvchi _Ismi_,_Familiyasi_,
   _Logini_,_Paroli_,_T-yili_,_T-kuni_,_T-oyi_,_Jinsi_ va
    _Fotografiyasini_ kiritadi;
-Siz saytga o'z profilingiz orqali kirganingizdan keyin(*ekran 3 ta bo'lakga bo'linadi)    __chap tomonda__      siznig
-profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz   surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.
+Siz saytga o'z profilingiz orqali kirganingizdan keyin(*ekran 3 ta bo'lakga bo'linadi)
+__chap tomonda__      siznig
+profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
+ surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.
 *Bular shaxsiy profilni boshqarish,
 -Fotoalbom,Ko’pchilikka xabar yuborish shulardir.
 __O'rta qismida__ ko’pchilikka xabar yuborish bo'limida yozgan bloglaringiz, joylashtirilgan
