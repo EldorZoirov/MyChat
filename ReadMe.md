@@ -8,7 +8,7 @@
 `Fotografiya almashish,`
 `Faylli ma'lumotlarni almashish,`
 `Shaxsiy profilni boshqarish,`
-`Ko’pchilikka xabar yuborish yani lenta.`
+`<dt>Ko’pchilikka xabar yuborish yani lenta.</dt>`
 Siz [MyChat.uz](https://mychatcom.herokuapp.com/) silkasiga murojat qilganingizda
 ekranigizda saytning bosh sahifasi ochiladi.
 Bosh sahifa ko'rinishi quyidagicha:
