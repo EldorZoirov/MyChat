@@ -1,5 +1,5 @@
 #Sayt nomi MyChat.uz#
-[![Build Status](https://badge.fury.io/js/assemble.png)](http://badge.fury.io/js/assemble)
+[![NPM version](http://s3.daryo.uz/wp-content/uploads/2014/01/soccer1.jpg)](http://s3.daryo.uz/wp-content/uploads/2014/01/soccer1)
  [![Build Status](https://travis-ci.org/assemble/assemble.png)](https://travis-ci.org/assemble/assemble)
 ###Bu sayt orqali quyidagi imkoniyatlarga ega bo'lishingiz mumkin:
 <blockquote>
