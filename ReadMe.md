@@ -4,7 +4,7 @@
   <p>Bu sayt orqali siz yaqin do'stlaringiz bilan online muloqot
      o'rnatishingiz mumkin.</p>
 </blockquote>
-<dt>Matnli xabarlarni almashish,</dt>
+`Matnli xabarlarni almashish,`
 <dt>Fotografiya almashish,</dt>
 <dt>Faylli ma'lumotlarni almashish,</dt>
 <dt>Shaxsiy profilni boshqarish,</dt>
