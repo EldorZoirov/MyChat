@@ -4,11 +4,11 @@
   <p>Bu sayt orqali siz yaqin do'stlaringiz bilan online muloqot
      o'rnatishingiz mumkin.</p>
 </blockquote>
-`Matnli xabarlarni almashish,
-Fotografiya almashish,
-Faylli ma'lumotlarni almashish,
-Shaxsiy profilni boshqarish,
-Ko’pchilikka xabar yuborish yani lenta.`
++ Matnli xabarlarni almashish,
++ Fotografiya almashish,
++ Faylli ma'lumotlarni almashish,
++ Shaxsiy profilni boshqarish,
++ Ko’pchilikka xabar yuborish yani lenta.
 Siz [MyChat.uz](https://mychatcom.herokuapp.com/) silkasiga murojat qilganingizda
 ekranigizda saytning bosh sahifasi ochiladi.
 Bosh sahifa ko'rinishi quyidagicha:
