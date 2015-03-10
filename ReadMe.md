@@ -5,10 +5,10 @@
      o'rnatishingiz mumkin.</p>
 </blockquote>
 `Matnli xabarlarni almashish,`
-<dt>Fotografiya almashish,</dt>
-<dt>Faylli ma'lumotlarni almashish,</dt>
-<dt>Shaxsiy profilni boshqarish,</dt>
-<dt>Ko’pchilikka xabar yuborish yani lenta.</dt>
+`Fotografiya almashish,`
+`Faylli ma'lumotlarni almashish,`
+`Shaxsiy profilni boshqarish,`
+`Ko’pchilikka xabar yuborish yani lenta.`
 Siz [MyChat.uz](https://mychatcom.herokuapp.com/) silkasiga murojat qilganingizda
 ekranigizda saytning bosh sahifasi ochiladi.
 Bosh sahifa ko'rinishi quyidagicha:
