@@ -23,7 +23,14 @@ Bosh sahifa bitta paneldan iborat bo'lib bu panelda __"Kirish"__ va
 </blockquote>
 
    ```bash
- Chap tomonda```
+ Chap tomonda
+ ```
+
+
+ ```bash
+ npm install assemble --save-dev
+ ```
+
       siznig
 profilingiz paydo bo'ladi va unda agar qandaydir bir surat yuklangan bo'lsangiz
  surat bilan ism familiyangiz va bir nechta bo'limlar paydo bo'ladi.Bular:
