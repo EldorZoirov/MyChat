@@ -1,4 +1,6 @@
 #Sayt nomi MyChat.uz#
+[![NPM version](https://badge.fury.io/js/assemble.png)](http://badge.fury.io/js/assemble)
+ [![Build Status](https://travis-ci.org/assemble/assemble.png)](https://travis-ci.org/assemble/assemble)
 ###Bu sayt orqali quyidagi imkoniyatlarga ega bo'lishingiz mumkin:
 <blockquote>
   <p>Bu sayt orqali siz yaqin do'stlaringiz bilan online muloqot
