@@ -31,7 +31,7 @@ __O'ng tomonda__ bir qancha yangiliklar ketma-ketligi joylashgan va bir qancha s
 Saytning pastgi qismida _[Twitter](https://www.Twitter.com)_,_[Odnoklassniki]
 (https://www.Odnoklassniki.ru)_,_[Facebook](https://www.Facebook.com)_,
 _[Telegram](https://telegram.com)_ saytlari iconlari,
-qalendar,joriy soatlardan tashkil topgan panel joy oladi.
+qalendar,joriy soatlardan tashkil topgan panel joy oladi.eldor
 
 
 
