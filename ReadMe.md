@@ -36,6 +36,7 @@ Saytning pastgi qismida _[Twitter](https://www.Twitter.com)_,_[Odnoklassniki]
 _[Telegram](https://telegram.com)_ saytlari iconlari,
 qalendar,joriy soatlardan tashkil topgan panel joy oladi.
 + eldor
++ eldor
 
 
 
