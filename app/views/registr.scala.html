@@ -1,0 +1,125 @@
+@(message: String)
+@main("R'yxatdan o'tish") {
+
+    @navbar("registr")
+    <div class="container" style="padding-top : 80px">
+        <div class="row">
+            <div class="col-xs-4 col-xs-offset-4 well">
+                <legend>Ro'yxatdan o'tish</legend>
+                <form class="form" role="form">
+                    <input class="form-control" placeholder="Ism" type="text"/>
+                    <br>
+                    <input class="form-control" placeholder="Familiya" type="text"/>
+                    <br>
+                    <input class="form-control" placeholder="Email" type="email" />
+                    <br>
+                    <input class="form-control" placeholder="Login" type="text" />
+                    <br>
+                    <input class="form-control" placeholder="Parol" type="password" />
+                    <br>
+                    <label style="color: #080808" class="center-block">Jinsi</label>
+                    <label style="color: #000000">
+                        <input type="radio" name="sex" id="inlineCheckbox1" value="male" />
+                        Erkak
+                    </label>&nbsp;&nbsp;
+                    <label style="color: #000000">
+                        <input type="radio" name="sex" id="inlineCheckbox2" value="female" />
+                        Ayol
+                    </label>
+                    <br>
+                    <br>
+                    <label style="color: #080808">Tug'ulgan sanasi</label>
+                    <div class="row">
+                        <div class="col-xs-4">
+                            <select class="form-control" id="b_day">
+                                <option value="Oy">Oy</option>
+                                <option value="Oy">Yanvar</option>
+                                <option value="Oy">Fevral</option>
+                                <option value="Oy">Mart</option>
+                                <option value="Oy">Aprel</option>
+                                <option value="Oy">May</option>
+                                <option value="Oy">Iyun</option>
+                                <option value="Oy">Iyul</option>
+                                <option value="Oy">Avgust</option>
+                                <option value="Oy">Sentabr</option>
+                                <option value="Oy">Oktabr</option>
+                                <option value="Oy">Noyabr</option>
+                                <option value="Oy">Dekabr</option>
+                            </select>
+                        </div>
+                        <div class="col-xs-4">
+                            <select class="form-control">
+                                <option value="Kun">Kun</option>
+                                <option value="Kun">1</option>
+                                <option value="Kun">2</option>
+                                <option value="Kun">3</option>
+                                <option value="Kun">4</option>
+                                <option value="Kun">5</option>
+                                <option value="Kun">6</option>
+                                <option value="Kun">7</option>
+                                <option value="Kun">8</option>
+                                <option value="Kun">9</option>
+                                <option value="Kun">10</option>
+                                <option value="Kun">11</option>
+                                <option value="Kun">12</option>
+                                <option value="Kun">13</option>
+                                <option value="Kun">14</option>
+                                <option value="Kun">15</option>
+                                <option value="Kun">16</option>
+                                <option value="Kun">17</option>
+                                <option value="Kun">18</option>
+                                <option value="Kun">19</option>
+                                <option value="Kun">20</option>
+                                <option value="Kun">21</option>
+                                <option value="Kun">22</option>
+                                <option value="Kun">23</option>
+                                <option value="Kun">24</option>
+                                <option value="Kun">25</option>
+                                <option value="Kun">26</option>
+                                <option value="Kun">27</option>
+                                <option value="Kun">28</option>
+                                <option value="Kun">29</option>
+                                <option value="Kun">30</option>
+                                <option value="Kun">31</option>
+                            </select>
+                        </div>
+                        <div class="col-xs-4">
+                            <select class="form-control">
+                                <option value="Yil">Yil</option>
+                                <option value="Yil">1988</option>
+                                <option value="Yil">1989</option>
+                                <option value="Yil">1990</option>
+                                <option value="Yil">1991</option>
+                                <option value="Yil">1992</option>
+                                <option value="Yil">1993</option>
+                                <option value="Yil">1994</option>
+                                <option value="Yil">1995</option>
+                                <option value="Yil">1996</option>
+                                <option value="Yil">1997</option>
+                                <option value="Yil">1998</option>
+                                <option value="Yil">1999</option>
+                                <option value="Yil">2000</option>
+                            </select>
+                        </div>
+                    </div>
+                    <br>
+                    @*<label style="color: #080808" class="center-block">Jinsi</label>*@
+                    @*<label style="color: #fb9872">*@
+                        @*<input type="radio" name="sex" id="inlineCheckbox1" value="male" />*@
+                        @*Erkak*@
+                    @*</label>&nbsp;&nbsp;*@
+                    @*<label style="color: #fb9872">*@
+                        @*<input type="radio" name="sex" id="inlineCheckbox2" value="female" />*@
+                        @*Ayol*@
+                    @*</label>*@
+                    @*<br />*@
+                    @*<br />*@
+                    <button class="btn btn-lg btn-primary btn-block" type="submit">Kirish
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+}
