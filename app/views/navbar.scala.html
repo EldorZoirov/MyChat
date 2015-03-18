@@ -16,7 +16,7 @@
             <ul class="nav navbar-nav">
                 <li class="@if(Eldor == "home") {active}"><a href="@routes.Application.index()"><b>Bosh sahifa</b></a></li>
                 <li class="@if(Eldor == "list") {active}"><a href="@routes.Malumotlar.list()"><b>Malumotlar</b></a></li>
-                <li><a href="#"><b>Kirish</b></a></li>
+                <li class="@if(Eldor == "enter") {active}"><a href="@routes.Application.enter()"><b>Kirish</b></a></li>
                 <li class="@if(Eldor == "registr") {active}"><a href="@routes.Application.registr()"><b>Ro'yhatdan o'tish</b></a></li>
 
 

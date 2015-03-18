@@ -13,4 +13,7 @@ object Application extends Controller {
   def registr = Action {
     Ok(views.html.registr("Eldor"))
   }
+  def enter = Action {
+    Ok(views.html.enter("Eldorbek"))
+  }
 }
