@@ -1,0 +1,49 @@
+@(message: String)
+
+@main("Kirish") {
+
+  @navbar("kirish")
+  <div class="container" style="padding-top : 81px">
+    <div class="row">
+      <div class="col-xs-6 col-sm-4 col-sm-offset-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <b>MyChat.com saytiga hush kelibsiz!</b>
+          </div>
+          <div class="panel-body">
+            <form role="form">
+              <div class="row">
+                <div class="col-xs-12 ">
+                  <div class="form-group">
+                    <div class="input-group">
+                      <span class="input-group-addon">
+                        <i class="glyphicon glyphicon-user"></i>
+                      </span>
+                      <input class="form-control" placeholder="Login" name="loginname" type="text">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="input-group">
+                      <span class="input-group-addon">
+                        <i class="glyphicon glyphicon-lock"></i>
+                      </span>
+                      <input class="form-control" placeholder="Password" name="password" type="password" value="">
+                    </div>
+                  </div>
+                  <input type="submit" class="btn btn-lg btn-success btn-block" value="kirish">
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="panel-footer" style="color : #080808">
+            Parolni unutdingizmi? <a href="#" class="text-danger"> Yordam </a>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+}

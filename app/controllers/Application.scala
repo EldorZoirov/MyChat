@@ -14,6 +14,6 @@ object Application extends Controller {
     Ok(views.html.registr("Eldor"))
   }
   def enter = Action {
-    Ok(views.html.enter("Eldorbek"))
+    Ok(views.html.kirish("Eldorbek"))
   }
 }
